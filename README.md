@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://visitcount.itsvg.in/api?id=NancySharma&label=Profile%20Views&icon=3&pretty=false)(https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=NancySharma&label=Profile%20Views&icon=3&pretty=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

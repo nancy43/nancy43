@@ -5,8 +5,6 @@ Hello, I'm Nancy Sharma! 👋<br>Welcome to my GitHub profile! I'm a Toronto-bas
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nancy-sharma-757840103/)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nancy-sharma-757840103" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/nancy-sharma-757840103?trk=profile-badge">Nancy Sharma</a></div>
-
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/1ba598c8f555497) 
 
 # 💻 Tech Stack:

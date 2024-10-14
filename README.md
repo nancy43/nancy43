@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello, I'm Nancy Sharma! 👋<br>Welcome to my GitHub profile! I'm a Toronto-based software developer with a strong focus on front-end technologies. With nearly 5 years of experience, I specialize in creating responsive, user-friendly websites using Vue.js, React, and modern web technologies like HTML, CSS, and JavaScript.<br><br>I'm passionate about learning and applying the latest best practices in web development to enhance user interaction and design. <br><br>Feel free to explore my profile, and I'm always open to feedback or opportunities to collaborate on interesting projects!
 
+I'm also currently diving into backend development by learning Java—guess my love for coffee really does pull me towards Java after all! ☕😉 Expanding my skill set to build more robust full-stack applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nancy-sharma-757840103/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/1ba598c8f555497) 
